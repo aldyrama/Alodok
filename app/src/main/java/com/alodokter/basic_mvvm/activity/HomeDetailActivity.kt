@@ -1,6 +1,7 @@
 package com.alodokter.basic_mvvm.activity
 
 import android.os.Bundle
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.alodokter.basic_mvvm.R
 import com.alodokter.basic_mvvm.model.ProductModel
@@ -12,7 +13,7 @@ import kotlinx.android.synthetic.main.activity_home_detail.*
 class HomeDetailActivity : AppCompatActivity() {
 
     private var listImage = ArrayList<String>()
-    private val imgSlider = ArrayList<SlideModel>()
+    private var imgSlider = ArrayList<SlideModel>()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -27,8 +28,8 @@ class HomeDetailActivity : AppCompatActivity() {
 
         if (homeDetail.imgList != null) {
             listImage.addAll(homeDetail.imgList!!)
-            for (i in 0..homeDetail.imgList!!.size) {
-                imgSlider.add(SlideModel(homeDetail.imgList!![0]))
+            for (i in 0 until listImage.size) {
+                imgSlider.add(SlideModel(homeDetail.imgList!![i]))
             }
 
             if (imgSlider.size > 0){
