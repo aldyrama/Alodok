@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Alodokter test</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">Home</string>
+    <string name="account">Akun</string>
+    <string name="myApp">"My App"</string>
+    <string name="featured">Featured</string>
+    <string name="email">Email</string>
+    <string name="masuk">Masuk</string>
+    <string name="user_name">Raka Purnama</string>
+    <string name="phone">+62822858698</string>
+    <string name="male">Male</string>
+    <string name="password">Password</string>
+    <string name="popular">Popular News</string>
+    <string name="wording">wording</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys
+        standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+</resources>

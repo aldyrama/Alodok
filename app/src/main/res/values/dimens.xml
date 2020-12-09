@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_default">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!--- SPACING -->
+    <dimen name="spacing_large">@dimen/spacing_32</dimen>
+    <dimen name="spacing_normal">@dimen/spacing_16</dimen>
+    <dimen name="spacing_small">@dimen/spacing_8</dimen>
+    <dimen name="spacing_tiny">@dimen/spacing_5</dimen>
+
+    <dimen name="spacing_2">2dp</dimen>
+    <dimen name="spacing_3">3dp</dimen>
+    <dimen name="spacing_5">5dp</dimen>
+    <dimen name="spacing_8">8dp</dimen>
+    <dimen name="spacing_9">9dp</dimen>
+    <dimen name="spacing_10">10dp</dimen>
+    <dimen name="spacing_11">11dp</dimen>
+    <dimen name="spacing_12">12dp</dimen>
+    <dimen name="spacing_14">14dp</dimen>
+    <dimen name="spacing_16">16dp</dimen>
+    <dimen name="spacing_18">18dp</dimen>
+    <dimen name="spacing_19">19dp</dimen>
+    <dimen name="spacing_20">20dp</dimen>
+    <dimen name="spacing_21">21dp</dimen>
+    <dimen name="spacing_24">24dp</dimen>
+    <dimen name="spacing_26">26dp</dimen>
+    <dimen name="spacing_30">30dp</dimen>
+    <dimen name="spacing_32">32dp</dimen>
+    <dimen name="spacing_36">36dp</dimen>
+    <dimen name="spacing_40">40dp</dimen>
+    <dimen name="spacing_45">45dp</dimen>
+    <dimen name="spacing_50">50dp</dimen>
+    <dimen name="spacing_56">56dp</dimen>
+    <dimen name="spacing_60">60dp</dimen>
+    <dimen name="spacing_65">65dp</dimen>
+    <dimen name="spacing_67">67dp</dimen>
+    <dimen name="spacing_70">70dp</dimen>
+    <dimen name="spacing_72">72dp</dimen>
+    <dimen name="spacing_80">80dp</dimen>
+    <dimen name="spacing_114">114dp</dimen>
+    <dimen name="spacing_125">125dp</dimen>
+    <dimen name="spacing_180">180dp</dimen>
+
+    <!-- SIZE -->
+    <dimen name="size_1">1dp</dimen>
+    <dimen name="size_2">2dp</dimen>
+    <dimen name="size_3">3dp</dimen>
+    <dimen name="size_4">4dp</dimen>
+    <dimen name="size_5">5dp</dimen>
+    <dimen name="size_7">7dp</dimen>
+    <dimen name="size_8">8dp</dimen>
+    <dimen name="size_100">100dp</dimen>
+    <dimen name="size_112">112dp</dimen>
+    <dimen name="size_120">120dp</dimen>
+    <dimen name="size_125">125dp</dimen>
+    <dimen name="size_128">128dp</dimen>
+    <dimen name="size_138">138dp</dimen>
+    <dimen name="size_140">140dp</dimen>
+
+    <dimen name="radius_card">10dp</dimen>
+    <dimen name="radius_small">12dp</dimen>
+    <dimen name="radius_normal">20dp</dimen>
+    <dimen name="radius_large">60dp</dimen>
+
+</resources>
